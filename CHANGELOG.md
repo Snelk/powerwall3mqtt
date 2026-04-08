@@ -1,6 +1,8 @@
 # Changelog
 ## [0.6.0] - 2026-04-08
 
+### Fixed
+
 - Implemented Magic73's Errno 113 fix (Hopefully)
 
 ## [0.5.2] - 2025-06-09
