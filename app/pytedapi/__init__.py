@@ -228,7 +228,7 @@ class TeslaEnergyDeviceAPI:
                 raise exceptions.TEDAPIException("Failed to reach host after multiple retries") from e
     
             self.check_http_response(r)
-        	return r
+        	   return r
 
     def post(self, path, force=False, headers=None, data=None):
         """
@@ -272,7 +272,7 @@ class TeslaEnergyDeviceAPI:
     
             self.check_http_response(r)
             self._pwcooldown = time.perf_counter()
-        	return r
+        	   return r
 
 
     def get_din(self, force=False):
