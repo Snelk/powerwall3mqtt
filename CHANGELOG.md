@@ -144,8 +144,8 @@
 
 - [Issue #8](https://github.com/slyglif/powerwall3mqtt/issues/8): Shutdowns weren't clean, preventing relavent logs from showing
 
-[0.6.0]: https://github.com/Snelk/powerwall3mqtt/releases
-[unreleased]: https://github.com/slyglif/powerwall3mqtt/compare/v0.5.2...HEAD
+[unreleased]: https://github.com/Snelk/powerwall3mqtt/compare/v0.6.0...HEAD
+[0.6.0]: https://github.com/Snelk/powerwall3mqtt/compare/v0.5.2...v0.6.0
 [0.5.2]: https://github.com/slyglif/powerwall3mqtt/compare/v0.5.1...v0.5.2
 [0.5.1]: https://github.com/slyglif/powerwall3mqtt/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/slyglif/powerwall3mqtt/compare/v0.4.0...v0.5.0
