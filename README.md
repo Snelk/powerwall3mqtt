@@ -1,5 +1,7 @@
 # powerwall3mqtt
-**NO LONGER MAINTAINED** A simple Home Assistant Add On that acts as a bridge between the Powerwall 3 TEDAPI and MQTT.
+**NOT MAINTAINED** A simple Home Assistant Add On that acts as a bridge between the Powerwall 3 TEDAPI and MQTT.
+
+
 
 > **Not using Home Assistant OS?** See [STANDALONE.md](STANDALONE.md) for running with Docker Compose.
 
